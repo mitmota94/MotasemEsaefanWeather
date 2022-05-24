@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MotasemEsaefanWeather</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_btn">Search</string>
+    <string name="city_name">city_name</string>
+    <string name="temp_tv">temp_tv</string>
+    <string name="tv_cloud">tv_cloud</string>
+    <string name="convert_unit">Convert Unit</string>
+    <string name="broken_cloud">broken_cloud</string>
+    <string name="feel_likes_79">feel_likes_79</string>
+
+    <string name="search">search</string>
+
+    <array name="Temperature">
+        <item>Select a Unit</item>
+        <item>Fahrenheit </item>
+        <item>Celsius</item>
+        <item>Kelvin</item>
+    </array>
+
+
+</resources>
